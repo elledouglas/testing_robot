@@ -26,7 +26,7 @@ class Robot
   end
 
   def workday?(today)
-    today != day_off
+     today != day_off
   end
 
 end
